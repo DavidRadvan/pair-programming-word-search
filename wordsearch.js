@@ -1,3 +1,5 @@
+// Pair Programmed with David Radvan, Noah Jung, and Priyanka Jagana. Transpose function from previous pair programming with David Radvan and Sasha Mahalia.
+
 const transpose = function(matrix) {
   let results = [];
   for (let k = 0; k < matrix[0].length; k++) {
